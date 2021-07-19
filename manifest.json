@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "PvP Team Color Helper Resource Pack",
+        "description": "Which team does boybook play for?",
+        "uuid": "60031751-27da-4978-aa78-11b2c9a9aa43",
+        "version": [13, 0, 0],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "PvP team color helper resource pack",
+            "type": "resources",
+            "uuid": "45805cd4-82ed-41e8-a832-fed1233a67c8",
+            "version": [13, 0, 0]
+        }
+    ]
+}
